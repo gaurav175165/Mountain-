@@ -1,0 +1,70 @@
+body{
+  background-color:#D6BBD5;
+  margin: 0;
+  text-align: center;
+}
+.name{
+  
+  font-family: "Satisfy", cursive;
+  font-weight: 400;
+  font-style: normal;
+font-size:50px;
+
+  color: #A68CA28A;
+  text-align: center;
+   
+}
+.uppercloud{
+  position : relative ;
+  bottom: 480px;
+  right:130px;
+}
+.lowercloud{
+  position : relative;
+  bottom: 350px;
+}
+.profile{
+  border-radius: 50%;
+  position : relative ;
+  left: auto;
+}
+.intro{
+  margin:50px;
+}
+hr {
+  border: dotted #EAF6F6 6px ;
+  border-bottom: none;
+  width: 4%;
+  
+}
+.skilldiv{
+  margin :50px;
+}
+h3{
+  color: #9295AD;
+}
+.hot{
+  margin: 50px;
+  
+}
+.chilli{
+position: relative;
+
+up: 20px;
+}
+.btn{
+  background :#5964CC;
+  background-color:#757F9F;
+  backdrop-filter: #C60A0A;
+ font-size: 20px;
+padding: 10px 20px 10px 20px;
+text-decoration: none;
+
+  font-family: "Satisfy", cursive;
+  
+
+
+}
+.btn:hover{
+ background-color:#7B5454;
+}
